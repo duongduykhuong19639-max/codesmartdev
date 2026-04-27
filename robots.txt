@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://codesmartdev.com.com/sitemap.xml
+Sitemap: https://codesmartdev.com/sitemap.xml
