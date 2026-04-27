@@ -1,0 +1,10 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="CodeSmartDev logo">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#14f195" />
+      <stop offset="100%" stop-color="#1fb6ff" />
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="24" fill="#05121d" stroke="url(#g)" stroke-width="4"/>
+  <path d="M38 40h28c15 0 26 10 26 24s-11 24-26 24H38V40zm26 36c8 0 14-5 14-12s-6-12-14-12H52v24h12z" fill="url(#g)"/>
+</svg>
